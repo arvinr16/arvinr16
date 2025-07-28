@@ -6,10 +6,10 @@
 <h2 align="center">🌐 Socials:</h2>
 <p align="center">
     <a href="https://stackoverflow.com/users/31154012">
-        https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white
+        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
     </a>
     <a href="mailto:email@gmail.com">
-        https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
     </a>
 </p>
 
@@ -26,12 +26,16 @@
 </p>
 
 <h2 align="center">📊 GitHub Stats:</h2>
-![](https://github-readme-stats.vercel.app/api?username=arvinr16&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arvinr16&theme=apprentice&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinr16&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arvinr16&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=arvinr16&theme=apprentice&hide_border=false" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinr16&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
-![](https://github-profile-trophy.vercel.app/?username=arvinr16&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=arvinr16&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4" />
+</p>
 
 <img src="https://raw.githubusercontent.com/arvinr16/arvinr16/output/snake.svg" alt="Snake animation" />
 
