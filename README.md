@@ -18,8 +18,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arvinr16&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=arvinr16&icon=2&color=2)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/arvinr16/arvinr16/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
