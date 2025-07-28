@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello friend I'm ArviNR</h1>
 <h2 align="center">🤗 I hope you are all always healthy</h2>
 
-<p align="center"><img align="center">![aesthetic 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE3azJvd2NtZ3VtbzA1ZW40cmFxd283dGIybGhrcnY5Y2tocmowNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/798oH0WDEQnicM4857/giphy.gif)</img></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE3azJvd2NtZ3VtbzA1ZW40cmFxd283dGIybGhrcnY5Y2tocmowNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/798oH0WDEQnicM4857/giphy.gif"/></p>
 
 <h2 align="center">🌐 Socials:</h2>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31154012) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arviansyahyk@gmail.com) 
