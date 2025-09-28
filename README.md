@@ -5,7 +5,10 @@
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE3azJvd2NtZ3VtbzA1ZW40cmFxd283dGIybGhrcnY5Y2tocmowNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/798oH0WDEQnicM4857/giphy.gif" alt="video1" /></p>
 
-<p align="center" style="width: 300px; height: 200px;"><img src="src/earthParadiseEdit.gif" alt="video2" /></p>
+<div align="center" style="display: flex;">
+<p align="center"><img src="src/earthParadiseEdit.gif" alt="video2" /></p>
+<p align="center"><img src="src/rainySlowlyEdit.gif" alt="video2" /></p>
+</div>
 
 <img src="https://raw.githubusercontent.com/arvinr16/arvinr16/output/snake.svg" alt="snakeAnimation" />
 
@@ -44,7 +47,6 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=arvinr16&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4" />
 </p> -->
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
