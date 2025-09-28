@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE3azJvd2NtZ3VtbzA1ZW40cmFxd283dGIybGhrcnY5Y2tocmowNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/798oH0WDEQnicM4857/giphy.gif" alt="video1" /></p>
 
-<div align="center"><video src="src/earthParadiseEdit.mp4" style="width: 300px; height: 200px; object-fit: cover;"></video></div>
+<div align="center"><video src="src/earthParadiseEdit.gif" style="width: 300px; height: 200px; object-fit: cover;"></video></div>
 
 <img src="https://raw.githubusercontent.com/arvinr16/arvinr16/output/snake.svg" alt="snakeAnimation" />
 
