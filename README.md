@@ -7,7 +7,7 @@
 
 <!-- <p align="center"><img src="src/earthParadiseEdit.gif" alt="video2" /></p> -->
 <h3 align="center">Me after solving a problem or error code:</h3>
-<p align="center"><img src="src/rainySlowly.gif.gif" alt="video2" /></p>
+<p align="center"><img src="src/rainySlowly.gif" alt="video2" /></p>
 
 <img src="https://raw.githubusercontent.com/arvinr16/arvinr16/output/snake.svg" alt="snakeAnimation" />
 
