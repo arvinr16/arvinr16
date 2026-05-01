@@ -9,6 +9,13 @@
 <h3 align="center">Me after solving a problem or error code:</h3>
 <p align="center"><img src="src/rainySlowly.gif" alt="video2" /></p>
 
+<h2 align="center">📊 GitHub Stats:</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arvinr16&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=arvinr16&theme=apprentice&hide_border=false" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinr16&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
 <img src="https://raw.githubusercontent.com/arvinr16/arvinr16/output/snake.svg" alt="snakeAnimation" />
 
 ###
@@ -35,12 +42,6 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p> -->
 
-<!-- <h2 align="center">📊 GitHub Stats:</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arvinr16&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=arvinr16&theme=apprentice&hide_border=false" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinr16&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p> -->
 
 <!-- <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
