@@ -11,7 +11,7 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-[![](https://komarev.com/ghpvc/?username=arvinr16&icon=2&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=arvinr16&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/arvinr16/arvinr16/output/snake.svg" alt="snakeAnimation" />
 
